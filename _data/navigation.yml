@@ -14,6 +14,9 @@ main:
   - title: "Research"
     url: /portfolio/
 
+  - title: "Experience"
+    url: /experience/
+
   - title: "Honors & Awards"
     url: /honors/
 
