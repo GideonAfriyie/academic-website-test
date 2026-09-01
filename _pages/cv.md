@@ -11,54 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Gettysburg College** — B.A. Mathematics, Economics Minor  
+2023–2027
 
-Work experience
+**BAUM Tenpers Institute** — Graduate Coursework  
+Stochastic Differential Equations, Stochastic Calculus, and Dynamic Programming
+
+Experience & Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Google TensorFlow Research Cloud (TRC)
+**Researcher · May 2026–Present**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Using Google Cloud TPU infrastructure to scale large-scale machine learning experiments, developing distributed JAX and PyTorch pipelines for statistical and deep learning models of extreme-value behavior.
+
+### Gettysburg College
+**3D Topographic Modeling Research Assistant · August 2026–Present**
+
+Developing 3D terrain models from regional topographic and elevation data for K–12 STEM education. Researching digital modeling and fabrication workflows, building prototypes, and refining models for classroom use.
+
+### MIT/Harvard IAIFI AI Summer School
+**August 2026**
+
+Completed an intensive AI summer school with lectures and hands-on tutorials covering symbolic regression, diffusion models, computer vision, simulation-based inference, and Physics-Informed AI, followed by a collaborative AI hackathon.
+
+### Under Canvas Inc.
+**Data Analytics Fellow · May 2025–July 2025**
+
+Analyzed a $1.6M organizational dataset using Python and Excel to investigate bonus inconsistencies and cost efficiency, and developed recommendations for an improved incentive framework.
+
+### Brighter Generation
+**Volunteer Teaching Assistant · May 2024–September 2024**
+
+Supported 25+ high school students through virtual instruction, grading, and academic feedback, including maintaining 2–4 a.m. sessions to accommodate the U.S.–Ethiopia time difference.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+**2026–27 AMS–Math Alliance F-GAP Scholar**  
+Nominated by the Gettysburg College Mathematics faculty and selected as a 2026–27 F-GAP Scholar through the AMS–Math Alliance.
+
+**Taylor Gaw ’13 Endowed Fellowship — 2026**  
+Competitive institutional fellowship supporting undergraduate research and professional development.
+
+**Seibert Project Award — 2024**  
+Recipient at Gettysburg College for leadership, mentorship, and community impact.
+
+**David Wills Scholarship — 2023–2027**  
+Awarded a $33,000-per-year scholarship to attend Gettysburg College.
+
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Programming & Tools:** Python, R, SQL, LaTeX, Excel  
+**Methods:** Extreme Value Theory, Time-Series Analysis, Statistical Inference
