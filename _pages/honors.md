@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## 2026 AMS–Math Alliance F-GAP Scholar
-Nominated by the Gettysburg College Mathematics faculty and selected as a 2026–27 F-GAP Scholar through the AMS–Math Alliance.
+Nominated by the Mathematics faculty and selected as a 2026–27 F-GAP Scholar through the AMS–Math Alliance.
 
 ## Taylor Gaw ’13 Endowed Fellowship
 **2026**
