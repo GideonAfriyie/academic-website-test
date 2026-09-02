@@ -4,9 +4,7 @@ excerpt: "Scaling statistical and ML models on Google Cloud TPU infrastructure f
 collection: portfolio
 ---
 
-<img src="{{ site.baseurl }}/images/google-trc.webp"
-     alt="Google Research"
-     style="max-width: 500px; width: 100%; height: auto;">
+![Google Research]({{ site.baseurl }}/images/google-trc.webp)
 
 As part of the Google TensorFlow Research Cloud (TRC) program, I am using Cloud TPU infrastructure to scale large-scale ML experiments. My work focuses on developing distributed JAX and PyTorch pipelines to train statistical and deep learning models for extreme-value behavior across massive datasets.
 
