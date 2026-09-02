@@ -54,13 +54,13 @@ Publications
 Honors & Awards
 ======
 **2026–27 AMS–Math Alliance F-GAP Scholar**  
-Nominated by the Gettysburg College Mathematics faculty and selected as a 2026–27 F-GAP Scholar through the AMS–Math Alliance.
+Nominated by the Mathematics faculty and selected as a 2026–27 F-GAP Scholar through the AMS–Math Alliance.
 
 **Taylor Gaw ’13 Endowed Fellowship — 2026**  
 Competitive institutional fellowship supporting undergraduate research and professional development.
 
 **Seibert Project Award — 2024**  
-Recipient at Gettysburg College for leadership, mentorship, and community impact.
+Recipient for leadership, mentorship, and community impact.
 
 **David Wills Scholarship — 2023–2027**  
 Awarded a $33,000-per-year scholarship to attend Gettysburg College.
