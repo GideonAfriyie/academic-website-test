@@ -6,7 +6,7 @@ author_profile: true
 
 ## Extreme Gaps Among Special Prime Families
 
-![Sophie Germain]({{ site.baseurl }}/images/sophie-germain.jpg)
+![Sophie Germain]({{ site.baseurl }}/images/sophie.png)
 
 Following my work on extreme prime gaps, I became curious about whether similar extreme-value behavior appears within special families of primes, particularly twin primes and Sophie Germain primes.
 
