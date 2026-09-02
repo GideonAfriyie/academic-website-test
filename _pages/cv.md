@@ -68,4 +68,4 @@ Awarded a $33,000-per-year scholarship to attend Gettysburg College.
 Skills
 ======
 **Programming & Tools:** Python, R, SQL, LaTeX, Excel  
-**Methods:** Extreme Value Theory, Time-Series Analysis, Statistical Inference
+**Methods:** EVT, Time-Series, Statistical Inference
