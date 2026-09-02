@@ -23,7 +23,7 @@ Experience & Research
 ### Google TensorFlow Research Cloud (TRC)
 **Researcher · May 2026–Present**
 
-Using Google Cloud TPU infrastructure to scale large-scale machine learning experiments, developing distributed JAX and PyTorch pipelines for statistical and deep learning models of extreme-value behavior.
+Using Google Cloud TPU infrastructure to scale large-scale ML experiments, developing distributed JAX and PyTorch pipelines for statistical and deep learning models of extreme-value behavior.
 
 ### Gettysburg College
 **3D Topographic Modeling Research Assistant · August 2026–Present**
